@@ -28,7 +28,7 @@ Citation:
 
 Main files:
 
-    - launch_main_FusionNet.m: main file
+    - main_FusionNet.m: main file
 
 Required files:
 
