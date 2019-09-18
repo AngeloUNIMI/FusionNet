@@ -1,4 +1,4 @@
-# PalmNet
+# FusionNet
 
 Matlab source code for the paper:
 
