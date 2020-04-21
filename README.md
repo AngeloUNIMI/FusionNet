@@ -21,16 +21,17 @@ Demo:
 
 Citation:
 
-    @InProceedings {civemsa19,
-        author = {A. Genovese and V. Piuri and F. Scotti and S. Vishwakarma},
-        booktitle = {Proc. of the 2019 IEEE Int. Conf. on Computational Intelligence & Virtual Environments for Measurement Systems and Applications (CIVEMSA 2019)},
-        title = {Touchless palmprint and finger texture recognition: A Deep Learning fusion approach},
-        address = {Tianjin, China},
-        month = {June},
-        day = {14-16},
-        year = {2019},
-	pages = {1-6},
-    }
+	@InProceedings {civemsa19,
+	    author = {A. Genovese and V. Piuri and F. Scotti and S. Vishwakarma},
+	    booktitle = {Proc. of the 2019 IEEE Int. Conf. on Computational Intelligence & Virtual Environments
+	    for Measurement Systems and Applications (CIVEMSA 2019)},
+	    title = {Touchless palmprint and finger texture recognition: A Deep Learning fusion approach},
+	    address = {Tianjin, China},
+	    month = {June},
+	    day = {14-16},
+	    year = {2019},
+	    pages = {1-6},
+	}
 
 Main files:
 
