@@ -8,6 +8,10 @@ Matlab source code for the paper:
 	Tianjin, China, June 14-16, 2019, pp. 1-6. 
 	ISBN: 978-1-5386-8344-6. DOI: 10.1109/CIVEMSA45640.2019.9071620
 	
+Paper:
+
+https://ieeexplore.ieee.org/document/9071620
+	
 Project page:
 
 [http://iebil.di.unimi.it/fusionnet/index.htm](http://iebil.di.unimi.it/fusionnet/index.htm)
