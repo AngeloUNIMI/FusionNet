@@ -12,7 +12,7 @@ Project page:
 [http://iebil.di.unimi.it/fusionnet/index.htm](http://iebil.di.unimi.it/fusionnet/index.htm)
     
 Outline:
-![Outline](./imgages/outline.png "Outline")
+![Outline](./images/outline.png "Outline")
 
 Citation:
 
