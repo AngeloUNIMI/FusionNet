@@ -12,11 +12,7 @@ Project page:
 [http://iebil.di.unimi.it/fusionnet/index.htm](http://iebil.di.unimi.it/fusionnet/index.htm)
     
 Outline:
-![Outline](http://iebil.di.unimi.it/fusionnet/imgs/outline.png "Outline")
-
-Demo:
-
-[https://github.com/AngeloUNIMI/Demo_FusionNet](https://github.com/AngeloUNIMI/Demo_FusionNet)
+![Outline](./imgages/outline.png "Outline")
 
 Citation:
 
